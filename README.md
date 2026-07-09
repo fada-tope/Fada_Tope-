@@ -1,5 +1,3 @@
-# Fada_Tope-
-Contact 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,4 +48,4 @@ Contact
     <a href="https://www.snapchat.com/add/fadatope">👻 Snapchat</a>
   </div>
 </body>
-</html><img width="610" height="610" alt="1306467" src="https://github.com/user-attachments/assets/ce2b7d3d-b6df-4a5d-be02-a4279851410d" />
+</html>
