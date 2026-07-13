@@ -86,7 +86,7 @@
 
     <a href="https://wa.me/233534930457" class="whatsapp">💬 WhatsApp</a>
 
-    <a href="https://t.me/Temishye" class="telegram">✈️ Telegram</a>
+    <a href="https://t.me/fadatope" class="telegram">✈️ Telegram</a>
 
     <a href="https://www.snapchat.com/add/fadatope" class="snapchat">👻 Snapchat</a>
     
